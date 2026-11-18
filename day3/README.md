@@ -26,11 +26,7 @@ Agile-and-Scrum/
 │   └── Set3_Hospital_Appointment_Booking/
 │       ├── Documentation.docx
 │       └── README.md
-│
-└── Day4/
-    ├── Set1/
-    ├── Set2/
-    └── Set3/
+
 ```
 
 ## Day 3 – Agile and Scrum Case Studies
@@ -71,21 +67,4 @@ Day 3 contains three case-study assignments completed using Agile Scrum concepts
 
 **Note:** Jira screenshots and implementation evidence are included directly in the respective Word documentation files.
 
-## Day 4 – Training Assignments
 
-Day 4 contains three additional assignment sets completed as part of the Agile and Scrum training.
-
-- Set 1 – [Add assignment name]
-- Set 2 – [Add assignment name]
-- Set 3 – [Add assignment name]
-
-## Tools and Concepts Used
-
-- **Jira:** Project creation, epics, user stories, backlog management, story point estimation, and workflow tracking.
-- **Agile:** Iterative and incremental development.
-- **Scrum:** Roles, events, artifacts, and responsibilities.
-- **Documentation:** Word documents containing assignment explanations and Jira screenshots.
-
-## Purpose
-
-This repository serves as a collection of Agile and Scrum training assignments, including case-study documentation, Jira implementation evidence, and other required deliverables.
